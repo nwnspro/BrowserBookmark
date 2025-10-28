@@ -6,4 +6,6 @@
 
 **` command+B `** to get back to your lastest bookmark (continue reading the long respond, save time for scrolling back to where it started:)
 
-Notice: still have some issues when placing in code block
+# Notice:
+- still have some issues when placing in code block
+- this only tested and works in Claude I don't use ChatGPT anymore haha
